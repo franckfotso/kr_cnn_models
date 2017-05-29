@@ -68,5 +68,10 @@ It is available (on download) with keras packages or through this link:
         miniVGG    |       0.5045       |        0.8411          |       0.75
     ---------------|--------------------|------------------------|---------------------
         AlexNet    |       0.0011       |        0.9999          |       0.7661
+        
+## Contact
+
+Please feel free to leave suggestions or comments to Romyny (romyny9096@gmail.com)
+
     
     
