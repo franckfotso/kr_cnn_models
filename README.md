@@ -19,7 +19,7 @@ It is available (on download) with keras packages or through this link:
     https://www.cs.toronto.edu/~kriz/cifar.html
     http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
-## Hardware/Softwares:
+## Hardwares/Softwares:
     OS: Ubuntu 16.04 64 bit
     GPU: Nvidia GTX 950M
     Cuda 8.0
