@@ -28,7 +28,7 @@ It is available (on download) with keras packages or through this link:
 
 1) Keras (for python 2.7): https://keras.io/
 
-2) Download pre-trained models (**AlexNet** & **Vgg16/19**) for finetune tasks: available (on download) with keras packages
+2) Pre-trained models (**AlexNet** & **Vgg16/19**) for finetune tasks: available (on download) with keras packages
 
 ## Installation:
 
