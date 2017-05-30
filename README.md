@@ -1,5 +1,5 @@
 # kr_cnn_models
-Implementation of CNN architectures with keras
+:snowflake: Implementation of CNN architectures with keras
 
 This project involves the following architectures:
 ShallowNet, LeNet, KarpathyNet, miniVggNet, AlexNet, vgg16 and vgg19
