@@ -1,6 +1,7 @@
 # --------------------------------------------------------
-# Written by Romyny
-# License MIT
+# Written by: Romuald FOTSO
+# Licensed: MIT License
+# Copyright (c) 2017
 # --------------------------------------------------------
 # usage:
 # python test_net.py --model output/cifar10_minivggnet_with_dropout.hdf5 --test-images test_images

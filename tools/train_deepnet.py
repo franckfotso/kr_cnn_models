@@ -1,6 +1,7 @@
 # --------------------------------------------------------
-# Written by Romyny
-# License MIT
+# Written by: Romuald FOTSO
+# Licensed: MIT License
+# Copyright (c) 2017
 # --------------------------------------------------------
 # usage:
 # python train_deepnet.py --network alexnet --model output/cifar10_alexnet.hdf5 --dropout 1 --batch-size 50 --epochs 35

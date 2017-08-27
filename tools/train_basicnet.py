@@ -1,6 +1,7 @@
 # --------------------------------------------------------
-# Written by Romyny
-# License MIT
+# Written by: Romuald FOTSO
+# Licensed: MIT License
+# Copyright (c) 2017
 # --------------------------------------------------------
 # usage:
 # python train_basicnet.py --network shallownet --model output/cifar10_shallownet.hdf5 --epochs 20

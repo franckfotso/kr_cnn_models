@@ -1,6 +1,7 @@
 # --------------------------------------------------------
-# Written by Romyny
-# License MIT
+# Written by: Romuald FOTSO
+# Licensed: MIT License
+# Copyright (c) 2017
 # --------------------------------------------------------
 # Usage:
 # python finetune_net --network alexnet --model cifar10_alexnet_fintuned.hdf5 \

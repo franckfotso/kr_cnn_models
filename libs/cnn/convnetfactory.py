@@ -1,6 +1,7 @@
 # --------------------------------------------------------
-# Written by Romyny
-# License MIT
+# Written by: Romuald FOTSO
+# Licensed: MIT License
+# Copyright (c) 2017
 # --------------------------------------------------------
 
 from keras.layers import merge, Input

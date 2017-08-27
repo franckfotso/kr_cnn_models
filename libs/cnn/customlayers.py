@@ -1,8 +1,9 @@
 # --------------------------------------------------------
-# Written by Romyny
+# Written by: Romuald FOTSO
+# Licensed: MIT License
+# Copyright (c) 2017
 # Based on 'dandxy89' github repository:
 # https://github.com/dandxy89/ImageModels/blob/master/KerasLayers/Custom_layers.py
-# License MIT
 # --------------------------------------------------------
 from keras.engine import Layer
 from keras import backend as K
