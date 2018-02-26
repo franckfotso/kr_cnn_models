@@ -4,7 +4,7 @@ Implementation of CNN architectures with keras
 This project involves the following architectures:
 ShallowNet, LeNet, KarpathyNet, miniVggNet, AlexNet, vgg16 and vgg19
 
-Created by Romuald FOTSO
+Created by Franck FOTSO
 
 ## Purposes:
 
@@ -71,7 +71,7 @@ It is available (on download) with keras packages or through this link:
         
 ## Contact
 
-Please feel free to leave suggestions or comments to Romuald FOTSO (romyny9096@gmail.com)
+Please feel free to leave suggestions or comments to Franck FOTSO (romyny9096@gmail.com)
 
     
     
